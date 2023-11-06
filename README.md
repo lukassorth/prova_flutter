@@ -2,15 +2,40 @@
 
 A new Flutter project.
 
-## Getting Started
+## Descrição
 
-This project is a starting point for a Flutter application.
+Projeto elaborado para teste de competências para desenvolvedor Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Principais bibliotecas utilizadas:
+- [MobX]([https://docs.flutter.dev/get-started/codelab](https://pub.dev/packages/mobx))
+- [Shared_Preferences]([https://docs.flutter.dev/cookbook](https://pub.dev/packages/shared_preferences))
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Pré-requisitos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter instalado
+- Dependências específicas do MobX
+- Outras dependências do projeto
+
+## Instalação
+
+Clone este repositório:
+git clone [https://github.com/seu-usuario/seu-projeto.git](https://github.com/lukassorth/prova_flutter)
+
+
+Navegue até o diretório do projeto:
+cd prova_flutter
+
+Instale as dependências do projeto:
+flutter pub get
+
+Execute o projeto:
+flutter run
+
+## Contato
+
+Lucas Eduardo Orth
+ 51 998273034
+ lukass.orth@gmail.com
+
+
+[online documentation](https://docs.flutter.dev/)
