@@ -1,4 +1,0 @@
-#Mon Nov 06 10:51:39 GMT-03:00 2023
-base.0=C\:\\Projetos\\Pessoal\\prova_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
